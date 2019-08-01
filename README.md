@@ -1,0 +1,2 @@
+# LambdaClassExample
+Just an example
